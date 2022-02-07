@@ -17,7 +17,7 @@ Fetching data from multiple APIs powered by https://rapidapi.com
 ### Live
 
 ```
-https://react-cryptoverse.netlify.app/
+in progress
 
 ```
 ### Clone repo 🔧
